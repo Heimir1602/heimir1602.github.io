@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.heimir1602.vedurstod",
+        "sha256_cert_fingerprints": ["45:25:E0:F6:E9:58:B5:A3:4A:00:B1:2D:44:D3:4A:D2:91:13:FA:F2:01:71:85:3A:B3:51:26:58:EE:EE:6C:E8"]
+      }
+    }]
